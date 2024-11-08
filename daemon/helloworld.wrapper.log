@@ -1,0 +1,2 @@
+2024-11-08 11:30:08 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\Harrsha\OneDrive\Documents\Desktop\roopesh\node_modules\node-windows\lib\wrapper.js --file C:\Users\Harrsha\OneDrive\Documents\Desktop\roopesh\app.js --scriptoptions= --log "Hello World wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-11-08 11:30:08 - Started 14880
